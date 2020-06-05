@@ -1,0 +1,5 @@
+the r script contains three functions:-
+- create_train_data : to create data from train folder of dataset
+- create_test_data : to create data from test folder of dataset
+- create_list : to create a list of 561 variables for an entry at index i in the x_train or x_test data
+all the variables are thouroughly explained in the rsript comments
